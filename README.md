@@ -1,4 +1,4 @@
 # hello-world
 a repository
-Hello, world!
+Hello, world!\n
 It is my first repository.
